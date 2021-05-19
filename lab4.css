@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  margin-top: 100px;
+  font-family: verdana;
+  font-size: 300px;
+  text-color: red;
+}
+.bg {
+  background-image: url("empire.jpg");
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
